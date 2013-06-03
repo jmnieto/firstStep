@@ -6,6 +6,6 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Trying to upload the code to GitHub");
+		System.out.println("What happen to the conflict");
 	}
 }
