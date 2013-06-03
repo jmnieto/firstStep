@@ -6,6 +6,6 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hola mundo con GitHub");
+		System.out.println("Trying to upload the code to GitHub");
 	}
 }
